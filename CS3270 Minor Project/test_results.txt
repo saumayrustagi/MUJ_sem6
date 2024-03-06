@@ -1,0 +1,8 @@
+i=1:Average execution time over 50 runs: 7249938 nanoseconds
+i=2:Average execution time over 50 runs: 10841353 nanoseconds
+i=3:Average execution time over 50 runs: 11346519 nanoseconds
+i=4:Average execution time over 50 runs: 10895060 nanoseconds
+i=5:Average execution time over 50 runs: 9945736 nanoseconds
+i=6:Average execution time over 50 runs: 9539425 nanoseconds
+i=7:Average execution time over 50 runs: 8995435 nanoseconds
+i=8:Average execution time over 50 runs: 8233932 nanoseconds
