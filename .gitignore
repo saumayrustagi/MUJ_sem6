@@ -4,4 +4,19 @@
 !*/
 #
 
+# Rust
+target/
+#
+
+# Python Compiled
+__pycache__/
+#
+
+# General
 *.out
+*.swp
+*.jar
+*.class
+.cph/
+.vscode/
+#
