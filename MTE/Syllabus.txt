@@ -1,5 +1,25 @@
 MTE Syllabus
 
-CS3241
+BB0026_11 March_3:30-5:00
+
+CS3203_12 March_1:30-3:00
+	Introduction and Course Hand-out briefing
+	Overview of Data Science and its applications
+	Descriptive Statistics
+	Probability Distribution
+	Linear and Multiple regression analysis,  
+	Analysis of variance (ANOVA)
+	Overview of Machine Learning, its goal and applications
+	Logistic Regression
+	Naive Bayes learning algorithm
+	Decision Tree Learning  (CART , pruning, bagging, boosting)
+
+CS3201_14 March_1:30-3:00
+
+EO0055_16 March_???
+
+CS3241_18 March_1:30-3:00
 	Module 1-5
-	EC 2 pptx
+	EC2 pptx
+
+CS3202_20 March_1:30-3:00
