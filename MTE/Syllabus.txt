@@ -5,14 +5,14 @@ BB0026_11 March_3:30-5:00
 CS3203_12 March_1:30-3:00
 	Introduction and Course Hand-out briefing
 	Overview of Data Science and its applications
-	Descriptive Statistics
-	Probability Distribution
-	Linear and Multiple regression analysis,  
-	Analysis of variance (ANOVA)
-	Overview of Machine Learning, its goal and applications
-	Logistic Regression
-	Naive Bayes learning algorithm
-	Decision Tree Learning  (CART , pruning, bagging, boosting)
+	Descriptive Statistics - lec 1
+	Probability Distribution - lec 2
+	Linear and Multiple regression analysis - folder
+	Analysis of variance (ANOVA) - file
+	Overview of Machine Learning, its goal and applications - lec 4a
+	Logistic Regression - file
+	Naive Bayes learning algorithm - lec 4a
+	Decision Tree Learning  (CART , pruning, bagging, boosting) - folder
 
 CS3201_14 March_1:30-3:00
 
